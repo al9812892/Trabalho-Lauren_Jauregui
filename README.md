@@ -1,16 +1,14 @@
-# Trabalho-Lauren_Jauregui
+## Trabalho-Lauren_Jauregui
 Trabalho
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lauren Jauregui</title>
-</head>
-<body>
-    <h1>Lauren Jauregui</h1>
-    <hr>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem expedita nisi repellat, voluptatibus ipsum itaque nesciunt voluptates sed vero rem accusamus natus dolore beatae dolorum, magni quae laudantium consequatur tenetur.</p>
-</body>
-</html>
+Lauren Jauregui
+
+Nome completo	Lauren Michelle Jauregui Morgado
+Nascimento	27 de junho de 1996 (24 anos)
+Miami, Flórida; Estados Unidos
+Nacionalidade	norte-americana
+Estatura	1,63 m
+Ocupação	
+Cantora e Compositora
+Lauren Michelle Jauregui Morgado (Miami, 27 de junho de 1996), mais conhecida como Lauren Jauregui, é uma cantora e compositora americana de ascendência cubana, conhecida mundialmente por ser ex-integrante do girl group Fifth Harmony, formado em 2012 através da segunda temporada do talent show The X Factor US. Após o hiato indefinido do grupo, Jauregui lançou, em 24 de outubro de 2018, seu single de estreia solo intitulado Expectations, alcançando o primeiro lugar da parada Pop no iTunes dos Estados Unidos. Já em janeiro de 2019, ela lançou seu segundo single, a conceitual More Than That. Escrita pela cantora dois ou três anos antes de seu lançamento, a canção foi inspirada na deusa grega Afrodite.
+
+### Lauren Jauregui
